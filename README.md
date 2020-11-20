@@ -1,2 +1,2 @@
-# CSGO-Project
-CSGO 
+# GCSO
+GCSO
